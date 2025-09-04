@@ -1,1 +1,1 @@
-apply LLM to EDA data and give me summary
+simplest chatbot using gpt-5-mini 
